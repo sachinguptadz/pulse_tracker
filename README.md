@@ -4,7 +4,7 @@ PulseTrack is a smart habit and focus tracking mobile app built with Flutter.
 It helps users create daily habits, manage focus tasks, track progress visually, and stay consistent with a clean animated dashboard.
 
 <p align="center">
-  <img src="docs/screenshots/ss1.png" width="240" alt="PulseTrack Screenshot 1" />
+  <img src="docs/screenshots/ss4.png" width="240" alt="PulseTrack Screenshot 1" />
 </p>
 
 <p align="center">
