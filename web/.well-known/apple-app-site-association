@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TEAMID.com.pulsetrack.app",
+        "paths": ["/habit/*", "/focus/*"]
+      }
+    ]
+  }
+}
